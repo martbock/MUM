@@ -1,7 +1,7 @@
 
-🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
-
+🎉🎉🎉🎉🎉🎉🎉🎉🎉
 ### 🎉 MUM is online! 🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉
 
 Visit the [project homepage](https://mum-project.github.io/docs/) to learn more.
 The [source code](https://github.com/mum-project/mum) and the [documentation](https://github.com/mum-project/docs)
